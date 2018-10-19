@@ -1,3 +1,9 @@
+/*
+ * 
+ * pointsWhenLettersUsed--->字母的分数
+ * used--->字母是否被用的标志
+ * */
+
 function Letter(letter, numberOfStartingTiles, pointsWhenLettersUsed) {
     this.letter = letter;  
     this.numberOfStartingTiles = numberOfStartingTiles;  
